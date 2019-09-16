@@ -1,0 +1,20 @@
+2019-09-15 10:15:35,518
+2019-09-15 10:15:35,538
+2019-09-15 10:15:35,538
+2019-09-15 10:16:48,523:WARNING
+2019-09-15 10:16:48,523:ERROR
+2019-09-15 10:16:48,523:CRITICAL
+2019-09-15 10:17:23,469:WARNING:<module>
+2019-09-15 10:17:23,469:ERROR:<module>
+2019-09-15 10:17:23,469:CRITICAL:<module>
+2019-09-15 10:19:41,175:WARNING:<module>:The sum of two number is 30
+2019-09-15 10:19:41,175:ERROR:<module>:The sum of two number is 30
+2019-09-15 10:19:41,175:CRITICAL:<module>:The sum of two number is 30
+2019-09-15 10:22:29,516:WARNING:<module>:The sum of two number is 30:12
+2019-09-15 10:22:29,516:ERROR:<module>:The sum of two number is 30:13
+2019-09-15 10:22:29,516:CRITICAL:<module>:The sum of two number is 30:14
+2019-09-15 10:29:46,640:DEBUG:<module>:The sum of two number is 30:12
+2019-09-15 10:29:46,640:INFO:<module>:The sum of two number is 30:13
+2019-09-15 10:29:46,640:WARNING:<module>:The sum of two number is 30:14
+2019-09-15 10:29:46,640:ERROR:<module>:The sum of two number is 30:15
+2019-09-15 10:29:46,640:CRITICAL:<module>:The sum of two number is 30:16

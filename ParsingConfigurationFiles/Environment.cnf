@@ -1,0 +1,9 @@
+[QA]
+url="https://testingmasters.com/"
+username="user01"
+Password="Test1234"
+
+[DEV]
+url="https://testingmasters.com/"
+username="user02"
+Password="Test1234"
